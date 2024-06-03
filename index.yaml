@@ -1,0 +1,3 @@
+options: {
+  authPlugin: 'mysql_native_password'
+}
